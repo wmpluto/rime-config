@@ -3,7 +3,6 @@
 
 patch:
   schema_list:
-    - schema: double_pinyin_flypy
     - schema: hepy
     - schema: luna_pinyin
     - schema: cangjie5
